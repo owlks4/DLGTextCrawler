@@ -1,8 +1,8 @@
-﻿# DLGScalpel
+﻿# DLGTextCrawler
 
 A small command line program that crawls extracted text files from Apollo Justice, and returns all the lines of dialogue spoken by the requested characters - cleaned of control codes and markup text.
 
-It's intended to be used alongside the existing dlgTool, which extracts the heavily annotated game script from the binary files. DLGScalpel is for converting those annotated texts into a more readable format.
+It's intended to be used alongside the existing dlgTool, which extracts the heavily annotated game script from the binary files. DLGTextCrawler is for converting those annotated texts into a more readable format.
 
 ## Usage:
 
